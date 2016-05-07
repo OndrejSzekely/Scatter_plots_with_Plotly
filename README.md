@@ -15,7 +15,7 @@ Option tab of the node is described in the documment protocol_en.pdf stored in t
 ![Output1](https://raw.githubusercontent.com/OndrejSzekely/Scatter_plots_with_Plotly/master/screenshots/scatter3.PNG)
 
 ##### Screenshots of Options tabs: 
-<img src="https://raw.githubusercontent.com/OndrejSzekely/Scatter_plots_with_Plotly/master/screenshots/hist4.PNG" width="520">
+<img src="https://raw.githubusercontent.com/OndrejSzekely/Scatter_plots_with_Plotly/master/screenshots/scatter4.PNG" width="520">
 ---
 ---
 Requirements
