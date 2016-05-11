@@ -22,7 +22,7 @@ Requirements
 ----
 - IBM SPSS Modeler v17.1 or higher.
 - R Essentials for SPSS Modeler plugin
-- R 3.1.2 or higher
+- R 3.1.3 for Modeler 17.1 / R 3.2.2 for Modeler 18
 
 ---
 Installation instructions
